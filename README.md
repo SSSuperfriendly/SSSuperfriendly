@@ -3,9 +3,7 @@
   <h3>A CS Student @ Tongji University (Elite Class)</h3>
   
   <img src="https://komarev.com/ghpvc/?username=SSSuperfriendly&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
 
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SSSuperfriendly&show_icons=true&theme=transparent" alt="Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSSuperfriendly&layout=compact&theme=transparent" alt="Languages" />
 </div>
