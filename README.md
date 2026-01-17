@@ -5,6 +5,11 @@
   <img src="https://komarev.com/ghpvc/?username=SSSuperfriendly&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SSSuperfriendly&show_icons=true&theme=transparent" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSSuperfriendly&layout=compact&theme=transparent" alt="Languages" />
+</div>
+
 <br/>
 
 - 🔭 I’m currently working on **Trustworthy Federated Learning**.
@@ -22,8 +27,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SSSuperfriendly/SSSuperfriendly/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SSSuperfriendly/SSSuperfriendly/output/github-contribution-grid-snake.svg">
 </picture>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SSSuperfriendly&show_icons=true&theme=transparent" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSSuperfriendly&layout=compact&theme=transparent" alt="Languages" />
-</div>
