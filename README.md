@@ -8,8 +8,7 @@
 - 🔭 I’m currently working on **Trustworthy Federated Learning**.
 - 🏫 I’m a student at **Guohao College, Tongji University**.
 - 💬 Ask me about **Federated Learning, AI4SG**.
-- 📫 How to reach me: [Your Email]
-- ⚡ Fun fact: I developed a desktop pet named **AlicePet**.
+- 📫 How to reach me: [chenkunpeng@tongji.edu.cn]
 - 🏠 Know more at my personal website: [https://sssuperfriendly.github.io](https://sssuperfriendly.github.io)
 
 <br/>
