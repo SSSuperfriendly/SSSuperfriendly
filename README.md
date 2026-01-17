@@ -1,16 +1,25 @@
-## Hi there 👋
+<div align="center">
+  <h1>Hi 👋, I'm Chen Kunpeng</h1>
+  <h3>A CS Student @ Tongji University (Elite Class)</h3>
+  
+  <img src="https://komarev.com/ghpvc/?username=SSSuperfriendly&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
 
-<!--
-**SSSuperfriendly/SSSuperfriendly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **Trustworthy Federated Learning**.
+- 🌱 I’m currently learning **Rust, Tauri, and Vue3**.
+- 🏫 I’m a student at **Guohao College, Tongji University**.
+- 💬 Ask me about **Federated Learning, AI4SG**.
+- 📫 How to reach me: [Your Email]
+- ⚡ Fun fact: I developed a desktop pet named **AlicePet**.
+- 🏠 Know more at my personal website: [https://sssuperfriendly.github.io](https://sssuperfriendly.github.io)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+### 🌟 Contribution Graph
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SSSuperfriendly/SSSuperfriendly/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SSSuperfriendly/SSSuperfriendly/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SSSuperfriendly/SSSuperfriendly/output/github-contribution-grid-snake.svg">
+</picture>
