@@ -8,7 +8,6 @@
 <br/>
 
 - 🔭 I’m currently working on **Trustworthy Federated Learning**.
-- 🌱 I’m currently learning **Rust, Tauri, and Vue3**.
 - 🏫 I’m a student at **Guohao College, Tongji University**.
 - 💬 Ask me about **Federated Learning, AI4SG**.
 - 📫 How to reach me: [Your Email]
