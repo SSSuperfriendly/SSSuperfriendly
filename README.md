@@ -1,7 +1,5 @@
 <div align="center">
   <h1>Hi 👋, I'm Chen Kunpeng</h1>
-  <h3>A CS Student @ Tongji University (Elite Class)</h3>
-  
   <img src="https://komarev.com/ghpvc/?username=SSSuperfriendly&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
