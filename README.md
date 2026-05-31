@@ -5,9 +5,9 @@
 
 <br/>
 
-- 🔭 I’m currently working on **Trustworthy Federated Learning**.
+- 🔭 I’m currently working on **AI Systems, Neural architecture design**.
 - 🏫 I’m a student at **Guohao College, Tongji University**.
-- 💬 Ask me about **Federated Learning, AI4SG**.
+- 💬 Ask me about **Multi-agent Systems or AI for Sustainability**.
 - 📫 How to reach me: [chenkunpeng@tongji.edu.cn]
 - 🏠 Know more at my personal website: [https://sssuperfriendly.github.io](https://sssuperfriendly.github.io)
 
